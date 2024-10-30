@@ -13,4 +13,4 @@ A comprehensive app to help KIIT students manage academic resources, including p
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/KIIT-Student-Helper.git
+   git clone https://github.com/abhik1289/k_prep_v2.git
